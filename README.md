@@ -9,7 +9,12 @@
 6.所有步骤验证通过后显示提交按鈕
 7.使用React Hook 实现
 
-[演示视频](./2025-07-22_15-39-20.mp4)
+## 演示视频
+
+<video width="800" controls>
+  <source src="./2025-07-22_15-39-20.mp4" type="video/mp4">
+  您的浏览器不支持视频标签。
+</video>
 
 # 开源实现
 ## React Hook Form
